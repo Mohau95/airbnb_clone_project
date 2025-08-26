@@ -4,7 +4,7 @@
 This project is designed to [briefly explain the purpose of the project]. It aims to solve [specific problem] by providing [key feature or solution]. The project is currently under active development.
 
 ## Goals
-- Deliver a reliable and efficient solution for [target audience or use case].
+- Deliver a reliable and efficient solution for clients.
 - Ensure scalability and maintainability for future enhancements.
 - Create a seamless user experience with a focus on performance and accessibility.
 
@@ -12,18 +12,4 @@ This project is designed to [briefly explain the purpose of the project]. It aim
 - **Frontend:** [React, Vue, Angular, etc.]
 - **Backend:** [Node.js, Django, Flask, etc.]
 - **Database:** [PostgreSQL, MongoDB, MySQL, etc.]
-- **Tools & Services:** [Docker, GitHub Actions, AWS, etc.]
-
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate to project directory
-cd your-repo-name
-
-# Install dependencies
-npm install  # or yarn install
-
-# Run the project
-npm start
+- **Tools & Services:** [Docker, GitHub Actions, AWS, etc.
