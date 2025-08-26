@@ -1,4 +1,4 @@
-# airbnb_clone_project# Project Name
+# airbnb_clone_project
 
 ## Overview
 This project is designed to [briefly explain the purpose of the project]. It aims to solve [specific problem] by providing [key feature or solution]. The project is currently under active development.
