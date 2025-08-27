@@ -1,7 +1,7 @@
 # airbnb_clone_project
 
 ## Overview
-This project is designed to briefly explain the purpose of the project. It aims to solve problem by providing solutions.The project is currently under active development.
+This project is designed to briefly explain the purpose of the project.It aims to solve problem by providing solutions.The project is currently under active development.
 
 ## Goals
 - Deliver a reliable and efficient solution for clients.
