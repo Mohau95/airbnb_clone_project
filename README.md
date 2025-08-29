@@ -1,10 +1,5 @@
 # Airbnb Clone Project
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
-[![Contributors](https://img.shields.io/github/contributors/Mohau95/airbnb-clone-project)]()
-[![Last Commit](https://img.shields.io/github/last-commit/Mohau95/airbnb-clone-project)]()
-
 ## Table of Contents
 - [Overview](#overview)
 - [Screenshots](#screenshots)
